@@ -5,9 +5,10 @@
 <!-- Profile views -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sayancyan&label=Profile%20views&color=0e75b6&style=flat" alt="sayancyan" /> </p>
 
-
 <!-- Most used langauges -->
-<p align="right"><img align="center" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=sayancyan&show_icons=true&locale=en&layout=compact" alt="sayancyan" /></p>
+<p align="right">
+<img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayancyan&theme=react&show_icons=true&hide_border=false&layout=compact" />
+</p>
 
 <!-- GitHub trophies
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sayancyan" alt="sayancyan" /></a> </p> -->
@@ -22,13 +23,10 @@
 <a href="mailto:xonomorph@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sayancyan" height="30" width="40" /></a>
 </p>
 
-
 <!-- GitHub Stats & Steeak -->
 
-<img align="center" width="48%" src="https://github-readme-stats.vercel.app/api?username=sayancyan&show_icons=true&locale=en" alt="sayancyan" /> <img align="center" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=sayancyan&" alt="sayancyan" />
-
-
-
+<img align="center" width="48%" src="https://github-readme-stats.vercel.app/api?username=sayancyan&theme=react&show_icons=true&hide_border=false&count_private=true" alt="sayancyan"/>
+<img align="center" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=sayancyan&theme=react&hide_border=false"/>
 
 
 <!-- <h3 align="left">Languages and Tools:</h3>
