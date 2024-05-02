@@ -27,7 +27,7 @@
 
 
 <!-- GitHub Stats -->
-<p align="left" ><img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=sayancyan&show_icons=true&locale=en" alt="sayancyan" /></p>
+<p align="left" ><img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=sayancyan&show_icons=true&locale=en" alt="sayancyan" /></p>
 
 <!-- GitHub Streak -->
 <p align="right" >&nbsp;<img align="right" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=sayancyan&" alt="sayancyan" /></p>
