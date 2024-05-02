@@ -23,16 +23,9 @@
 </p>
 
 
-<!-- GitHub Stats -->
-<div style="display:flex">
-<img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=sayancyan&show_icons=true&locale=en" alt="sayancyan" />
-</div>
+<!-- GitHub Stats & Streak -->
 
-<div style="display:flex">
-<img align="center" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=sayancyan&" alt="sayancyan" />
-</div>
-
-<!-- GitHub Streak -->
+<img align="center" width="48%" src="https://github-readme-stats.vercel.app/api?username=sayancyan&show_icons=true&locale=en" alt="sayancyan" /> <img align="center" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=sayancyan&" alt="sayancyan" />
 
 
 
