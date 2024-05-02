@@ -6,7 +6,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sayancyan&label=Profile%20views&color=0e75b6&style=flat" alt="sayancyan" /> </p>
 
 
-
 <!-- Most used langauges -->
 <p align="right"><img align="center" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=sayancyan&show_icons=true&locale=en&layout=compact" alt="sayancyan" /></p>
 
@@ -25,11 +24,24 @@
 
 
 <!-- GitHub Stats -->
-<flex align="left" ><img align="center" width="40%" src="https://github-readme-stats.vercel.app/api?username=sayancyan&show_icons=true&locale=en" alt="sayancyan" /></flex>
+<div style="display:flex">
+<img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=sayancyan&show_icons=true&locale=en" alt="sayancyan" />
+</div>
+
+<div style="display:flex">
+<img align="center" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=sayancyan&" alt="sayancyan" />
+</div>
 
 <!-- GitHub Streak -->
-<flex align="right" >&nbsp;<img align="center" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=sayancyan&" alt="sayancyan" /></flex>
 
+
+
+
+<style>
+.left {
+    align="right"
+}
+</style>
 
 
 <!-- <h3 align="left">Languages and Tools:</h3>
