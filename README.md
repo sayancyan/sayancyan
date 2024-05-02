@@ -24,13 +24,11 @@
 </p>
 
 
-
-
 <!-- GitHub Stats -->
-<p align="left" ><img align="center" width="40%" src="https://github-readme-stats.vercel.app/api?username=sayancyan&show_icons=true&locale=en" alt="sayancyan" /></p>
+<flex align="left" ><img align="center" width="40%" src="https://github-readme-stats.vercel.app/api?username=sayancyan&show_icons=true&locale=en" alt="sayancyan" /></flex>
 
 <!-- GitHub Streak -->
-<p align="right" >&nbsp;<img align="center" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=sayancyan&" alt="sayancyan" /></p>
+<flex align="right" >&nbsp;<img align="center" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=sayancyan&" alt="sayancyan" /></flex>
 
 
 
