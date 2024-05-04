@@ -1,13 +1,13 @@
 
 <!-- Hero Image -->
-<img align='right' width="6100%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWU4a2JlMGFneHFmZXgxd2hudWltOHFtOHZwdDAzMTd4cDF3cXR5biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RMwgs5kZqkRyhF24KK/giphy.gif" width="230" />
+<img align='center' width="6100%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWU4a2JlMGFneHFmZXgxd2hudWltOHFtOHZwdDAzMTd4cDF3cXR5biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RMwgs5kZqkRyhF24KK/giphy.gif" width="230" />
 
-<!-- <img align='right' width="100%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXNxYWlxNTcxNm4yaDYxdHAxeHg1dWMwNmk4enNsMTh0a2MxMHV3MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rpl1sod1vCXK0L2SUN/giphy.gif" width="230" />
+<!-- <img align='center' width="100%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXNxYWlxNTcxNm4yaDYxdHAxeHg1dWMwNmk4enNsMTh0a2MxMHV3MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rpl1sod1vCXK0L2SUN/giphy.gif" width="230" /> -->
 
 
-<img align='right' width="100%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHlrdG5xcHFhNXh6eGp1eDU5MWhmdmJoeDdmeXBnaXB6azRnYXNreSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3q2XB76CaWPggiNW/giphy.gif" width="230" />
+<!-- <img align='center' width="100%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHlrdG5xcHFhNXh6eGp1eDU5MWhmdmJoeDdmeXBnaXB6azRnYXNreSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3q2XB76CaWPggiNW/giphy.gif" width="230" /> -->
 
-<img align='right' width="100%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmtycGZ4dDM0M3p3Z2N3N2RicndmanB6Z3pqa3Jmc3hpY29hZ2Z2ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3osxY9kuM2NGUfvThe/giphy.gif" width="230" /> -->
+<!-- <img align='center' width="100%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmtycGZ4dDM0M3p3Z2N3N2RicndmanB6Z3pqa3Jmc3hpY29hZ2Z2ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3osxY9kuM2NGUfvThe/giphy.gif" width="230" /> -->
 
 <!-- Profile views -->
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=sayancyan&label=Profile%20views&color=0e75b6&style=flat" alt="sayancyan" /> </p>
