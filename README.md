@@ -18,8 +18,8 @@
 
 
 <!-- Stats -->
-<img align="center" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayancyan&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
-<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=sayancyan&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false"/>
+<img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayancyan&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
+<img align="right" width="47%" src="https://github-readme-stats.vercel.app/api?username=sayancyan&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false"/>
 </br>
 </br>
 <!-- Streak -->
