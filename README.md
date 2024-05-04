@@ -20,7 +20,6 @@
 <!-- Stats -->
 <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayancyan&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false&layout=compact" /><img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=sayancyan&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false"/>
 </br>
-</br>
 <!-- Streak -->
 <p align="center">
 <img align="center" width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=sayancyan&theme=midnight-purple&hide_border=true"/>
