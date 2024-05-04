@@ -1,9 +1,7 @@
-
 <!-- Hero Image -->
 <img align='center' width="6100%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWU4a2JlMGFneHFmZXgxd2hudWltOHFtOHZwdDAzMTd4cDF3cXR5biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RMwgs5kZqkRyhF24KK/giphy.gif" width="230" />
 
 <!-- <img align='center' width="100%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXNxYWlxNTcxNm4yaDYxdHAxeHg1dWMwNmk4enNsMTh0a2MxMHV3MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rpl1sod1vCXK0L2SUN/giphy.gif" width="230" /> -->
-
 
 <!-- <img align='center' width="100%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHlrdG5xcHFhNXh6eGp1eDU5MWhmdmJoeDdmeXBnaXB6azRnYXNreSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3q2XB76CaWPggiNW/giphy.gif" width="230" /> -->
 
@@ -12,27 +10,24 @@
 <!-- Profile views -->
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=sayancyan&label=Profile%20views&color=0e75b6&style=flat" alt="sayancyan" /> </p>
 
-
 <h1 align="center">Hi 👋, I'm Sayan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-
 <!-- Stats -->
+
 <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayancyan&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false&layout=compact" /><img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=sayancyan&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false"/>
 </br>
+
 <!-- Streak -->
 <p align="center">
 <img align="center" width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=sayancyan&theme=midnight-purple&hide_border=true"/>
 </p>
 
-
-
 <!-- Contact -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="mailto:xonomorph@gmail.com" target="blank"><img align="center" src="/images/gmail.svg" alt="sayancyan" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sayancyan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sayancyan" height="30" width="40" /></a>
-<a href="https://medium.com/@sayancyan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sayancyan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sayancyan" target="blank"><img align="center" src="/images/linkedIn.svg" alt="sayancyan" height="30" width="40" /></a>
 </p>
 
 <!-- GitHub trophies
