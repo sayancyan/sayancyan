@@ -69,6 +69,9 @@
 
 <!-- <p align="center"> <img width="100%" src="/images/footer.gif" /> </p> -->
 <p align="center"> <img width="100%" src="/images/footer_1.gif" /> </p>
+<p align="center"> <img width="50%" src="" /> </p>
+
+
 
 <!-- Languages and Tools:</h3>
 
