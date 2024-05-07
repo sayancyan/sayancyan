@@ -13,8 +13,8 @@
 <!-- <img align='center' width="100%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXNxYWlxNTcxNm4yaDYxdHAxeHg1dWMwNmk4enNsMTh0a2MxMHV3MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rpl1sod1vCXK0L2SUN/giphy.gif" width="230" /> -->
 
 <!-- <img align='center' width="100%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHlrdG5xcHFhNXh6eGp1eDU5MWhmdmJoeDdmeXBnaXB6azRnYXNreSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3q2XB76CaWPggiNW/giphy.gif" width="230" /> -->
-<!--
-<img align='center' width="100%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmtycGZ4dDM0M3p3Z2N3N2RicndmanB6Z3pqa3Jmc3hpY29hZ2Z2ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3osxY9kuM2NGUfvThe/giphy.gif" width="230" /> -->
+
+<!-- <img align='center' width="100%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmtycGZ4dDM0M3p3Z2N3N2RicndmanB6Z3pqa3Jmc3hpY29hZ2Z2ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3osxY9kuM2NGUfvThe/giphy.gif" width="230" /> -->
 
 <img align='right' width="100%" src="https://68.media.tumblr.com/61d4fea89f86eb4cb5a7e616d9cd4832/tumblr_owi25v6uAo1r4gsiio1_1280.gif" />
 <!-- Profile views -->
