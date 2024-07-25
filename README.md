@@ -25,7 +25,7 @@
 &style=plastic
 &base=5000
 &abbreviated=true
-"alt="sayancyan"]
+"alt="sayancyan"
 />
 </p>
 
