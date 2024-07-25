@@ -73,13 +73,13 @@
 
 ---
 
-### 💰You can help me by Donating
+<!-- ### 💰You can help me by Donating
 
-<a href="https://buymeacoffee.com/sayancyan" target="blank"><img align="center" src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="sayancyan" /></a>
+<a href="https://buymeacoffee.com/sayancyan" target="blank"><img align="center" src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="sayancyan" /></a> -->
 
 <!-- <p align="center"> <img width="100%" src="/images/footer.gif" /> </p> -->
 <p align="center"> <img width="100%" src="/images/footer_1.gif" /> </p>
-<p align="center"> <img width="50%" src="" /> </p>
+<!-- <p align="center"> <img width="50%" src="" /> </p> -->
 
 
 
