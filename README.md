@@ -29,7 +29,6 @@
 />
 </p>
 
-
 <h1 align="center">Hi 👋, I'm Sayan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
@@ -80,8 +79,6 @@
 <!-- <p align="center"> <img width="100%" src="/images/footer.gif" /> </p> -->
 <p align="center"> <img width="100%" src="/images/footer_1.gif" /> </p>
 <!-- <p align="center"> <img width="50%" src="" /> </p> -->
-
-
 
 <!-- Languages and Tools:</h3>
 
