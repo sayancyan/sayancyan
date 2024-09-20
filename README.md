@@ -25,9 +25,9 @@
 
 
 <!-- Hi, I'm Sayan -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=2000&pause=1000&color=F7F7F7&vCenter=true&multiline=true&repeat=false&width=435&lines=Hi%2C+I'm+Sayan)](https://www.linkedin.com/in/sayancyan)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=2000&pause=1000&color=F7F7F7&vCenter=true&multiline=true&repeat=false&width=435&lines=Hi%2C+I'm+Sayan)](https://linktr.ee/sayancyan)
 
-<!-- Full-Stack Developer | Git & GitHub -->
+<!-- Full-Stack Developer | Git & GitHub-->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&duration=2000&pause=1000&color=F7F7F7&vCenter=true&multiline=true&repeat=false&width=435&lines=Full-Stack+Developer+%7C+Git+%26+GitHub)](https://www.linkedin.com/in/sayancyan)
 ---
 
