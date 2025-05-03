@@ -1,8 +1,28 @@
-# ‎
-
 <!-- Hero Image -->
 
-![Animated coding gif](https://68.media.tumblr.com/61d4fea89f86eb4cb5a7e616d9cd4832/tumblr_owi25v6uAo1r4gsiio1_1280.gif)
+<!-- <img align='right' width="100%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWU4a2JlMGFneHFmZXgxd2hudWltOHFtOHZwdDAzMTd4cDF3cXR5biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RMwgs5kZqkRyhF24KK/giphy.gif" width="230" /> -->
+
+<!-- <img align='right' width="100%" src="https://i.pinimg.com/originals/17/90/1d/17901df15c00dd4a35f8d2c976554f14.gif" width="230" /> -->
+
+<!-- <img align='right' width="100%" src="https://i.pinimg.com/originals/26/02/be/2602bed9bee3c34ffc4d4d173b3c6071.gif" /> -->
+
+<!-- <img align='right' width="100%" src="https://i.pinimg.com/originals/26/02/be/2602bed9bee3c34ffc4d4d173b3c6071.gif" /> -->
+
+<!-- <img align='right' width="100%" src="https://i.pinimg.com/originals/80/ec/77/80ec77932091113c4970a88f69b9bb4f.gif" /> -->
+
+<!-- <img align='center' width="100%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXNxYWlxNTcxNm4yaDYxdHAxeHg1dWMwNmk4enNsMTh0a2MxMHV3MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rpl1sod1vCXK0L2SUN/giphy.gif" width="230" /> -->
+
+<!-- <img align='center' width="100%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHlrdG5xcHFhNXh6eGp1eDU5MWhmdmJoeDdmeXBnaXB6azRnYXNreSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3q2XB76CaWPggiNW/giphy.gif" width="230" /> -->
+
+<!-- <img align='center' width="100%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmtycGZ4dDM0M3p3Z2N3N2RicndmanB6Z3pqa3Jmc3hpY29hZ2Z2ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3osxY9kuM2NGUfvThe/giphy.gif" width="230" /> -->
+
+<img align='right' width="100%" src="https://68.media.tumblr.com/61d4fea89f86eb4cb5a7e616d9cd4832/tumblr_owi25v6uAo1r4gsiio1_1280.gif" />
+
+<!-- Profile views -->
+
+![](https://komarev.com/ghpvc/?username=your-github-username&abbreviated=true&color=blue&style=for-the-badge)
+
+<!-- ![GitHub followers](https://img.shields.io/github/followers/sayancyan) -->
 
 <!-- Hi, I'm Sayan -->
 
