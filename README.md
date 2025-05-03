@@ -1,46 +1,59 @@
 <!-- Hero Image -->
+<div 
+  align="center">
+  <img
+  src="https://68.media.tumblr.com/61d4fea89f86eb4cb5a7e616d9cd4832/tumblr_owi25v6uAo1r4gsiio1_1280.gif"
+  alt="Hero-Image"
+  style="max-width: 100%"
+  />
+</div>
 
-<!-- <img align='right' width="100%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWU4a2JlMGFneHFmZXgxd2hudWltOHFtOHZwdDAzMTd4cDF3cXR5biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RMwgs5kZqkRyhF24KK/giphy.gif" width="230" /> -->
+<!-- Profile Views -->
+<div 
+  style="width: 100%; height: auto; margin-bottom: 25px;">
+  <img 
+  src="https://komarev.com/ghpvc/?username=sayancyan&abbreviated=true"
+  alt="Profile-Views"
+  style="float: right"
+  />
+</div>
 
-<!-- <img align='right' width="100%" src="https://i.pinimg.com/originals/17/90/1d/17901df15c00dd4a35f8d2c976554f14.gif" width="230" /> -->
+<!-- Intro-->
 
-<!-- <img align='right' width="100%" src="https://i.pinimg.com/originals/26/02/be/2602bed9bee3c34ffc4d4d173b3c6071.gif" /> -->
-
-<!-- <img align='right' width="100%" src="https://i.pinimg.com/originals/26/02/be/2602bed9bee3c34ffc4d4d173b3c6071.gif" /> -->
-
-<!-- <img align='right' width="100%" src="https://i.pinimg.com/originals/80/ec/77/80ec77932091113c4970a88f69b9bb4f.gif" /> -->
-
-<!-- <img align='center' width="100%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXNxYWlxNTcxNm4yaDYxdHAxeHg1dWMwNmk4enNsMTh0a2MxMHV3MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rpl1sod1vCXK0L2SUN/giphy.gif" width="230" /> -->
-
-<!-- <img align='center' width="100%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHlrdG5xcHFhNXh6eGp1eDU5MWhmdmJoeDdmeXBnaXB6azRnYXNreSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3q2XB76CaWPggiNW/giphy.gif" width="230" /> -->
-
-<!-- <img align='center' width="100%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmtycGZ4dDM0M3p3Z2N3N2RicndmanB6Z3pqa3Jmc3hpY29hZ2Z2ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3osxY9kuM2NGUfvThe/giphy.gif" width="230" /> -->
-
-<img align='right' width="100%" src="https://68.media.tumblr.com/61d4fea89f86eb4cb5a7e616d9cd4832/tumblr_owi25v6uAo1r4gsiio1_1280.gif" />
-
-<!-- Profile views -->
-
-![](https://komarev.com/ghpvc/?username=your-github-username&abbreviated=true&color=blue&style=for-the-badge)
-
-<!-- ![GitHub followers](https://img.shields.io/github/followers/sayancyan) -->
-
-<!-- Hi, I'm Sayan -->
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=2000&pause=1000&color=F7F7F7&vCenter=true&multiline=true&repeat=false&width=435&lines=Hi%2C+I'm+Sayan)](https://linktr.ee/sayancyan)
-
-<!-- Full-Stack Developer | Git & GitHub-->
-
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&duration=2000&pause=1000&color=F7F7F7&vCenter=true&multiline=true&repeat=false&width=435&lines=Full-Stack+Developer+%7C+Git+%26+GitHub)](https://www.linkedin.com/in/sayancyan)
-
-<!-- About Me -->
-
-- 🔭 Currently working on [![this]()](https://github.com/sayancyan/TotalHealth-Chatbot)
-- 🎓 Learning **MERN** & **SpringBoot**.
+<a
+  href="https://git.io/typing-svg">
+<img 
+  src="https://readme-typing-svg.demolab.com?font=Outfit&size=40&duration=1000&color=F7F7F7&center=true&vCenter=true&multiline=true&repeat=false&width=700&height=150&lines=Hi%F0%9F%91%8B%2C+I'm+Sayan;Full-Stack+Developer+%26+Designer+"
+  alt="Typing SVG"
+  />
+</a>
 
 ---
 
-<!-- Contact -->
-<!-- Conenct with Me -->
+<!-- About Me -->
+
+> [!tip] About me
+>
+> das
+
+<!-- What's going on -->
+
+## What's Going on
+
+- 🔭 Currently Working on : [Total Health Chatbot](https://github.com/sayancyan/TotalHealth-AI)
+- 🌱 Currently Learning : NOSQL and about [MongoDB](https://www.mongodb.com)
+- 👨‍💻 All of my projects are available here [👉 github.com/sayancyan](https://github.com/sayancyan)
+
+> [!success] da me
+>
+> das
+
+- 🤝 I’m looking for help with
+- 👯 I’m looking to collaborate ond d
+
+---
+
+<!-- Connect with me -->
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&duration=2000&pause=999&color=F7F7F7&repeat=false&width=435&lines=Connect+with+Me)](https://linkedin.com/in/sayancyan)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=15&duration=2000&pause=999&color=34ABF7&repeat=false&width=435&lines=LinkedIn)](https://linkedin.com/in/sayancyan)
