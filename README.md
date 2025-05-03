@@ -30,25 +30,7 @@
 
 ---
 
-> [!NOTE]  
-> Highlights information that users should take into account, even when skimming.
-
-> [!TIP]
-> Optional information to help a user be more successful.
-
-> [!IMPORTANT]  
-> Crucial information necessary for users to succeed.
-
-> [!WARNING]  
-> Critical content demanding immediate user attention due to potential risks.
-
-> [!CAUTION]
-> Negative potential consequences of an action.
-
 <!-- About Me -->
-
-> [!TIP] About me
-> das
 
 <!-- What's going on -->
 
@@ -58,12 +40,8 @@
 - 🌱 Currently Learning : NOSQL and about [MongoDB](https://www.mongodb.com)
 - 👨‍💻 All of my projects are available here [👉 github.com/sayancyan](https://github.com/sayancyan)
 
-> [!success] da me
->
-> das
-
-- 🤝 I’m looking for help with
-- 👯 I’m looking to collaborate ond d
+<!-- - 🤝 I’m looking for help with
+- 👯 I’m looking to collaborate ond d -->
 
 ---
 
