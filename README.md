@@ -32,7 +32,7 @@
 
 <!-- About Me -->
 
-> [!tip] About me
+> [!TIP] About me
 >
 > das
 
