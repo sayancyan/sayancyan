@@ -21,8 +21,6 @@
 <!-- Intro-->
 <div 
   style="width: 100%; height: auto; margin-bottom: 25px; text-align: center;">
-  <a 
-    href="https://git.io/typing-svg">
     <img 
       src="https://readme-typing-svg.demolab.com?font=Outfit&size=40&duration=1000&color=F7F7F7&center=true&vCenter=true&multiline=true&repeat=false&width=700&height=150&lines=Hi%F0%9F%91%8B%2C+I'm+Sayan;Full-Stack+Developer+%26+Designer+"
       alt="Typing SVG"
