@@ -39,7 +39,7 @@
 - 🔭 Currently Working on : [Total Health Chatbot](https://github.com/sayancyan/TotalHealth-AI)
 - 🌱 Currently Learning : NOSQL and about [MongoDB](https://www.mongodb.com)
 - 👨‍💻 All of my projects are available here [👉 github.com/sayancyan](https://github.com/sayancyan)
-
+- 📢 I post some public notes : Check them out here👉 [Public Notes](https://github.com/sayancyan/public-vault)
 <!-- - 🤝 I’m looking for help with
 - 👯 I’m looking to collaborate ond d -->
 
