@@ -299,7 +299,9 @@ align="center"
 </a>
 </div>
 
-<img src="https://raw.githubusercontent.com/sayancyan/sayancyan/output/snake.svg"/>
+<img
+src="https://raw.githubusercontent.com/sayancyan/sayancyan/output/snake.svg"
+/>
 
 <!-- ### 💰You can help me by Donating
 
