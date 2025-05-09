@@ -44,20 +44,14 @@
 
 ---
 
-<!-- Image & Skills -->
-
-<img
-align="right"
-height="150"
-src="https://i.pinimg.com/originals/e1/7a/b9/e17ab9681bec36303a67cd0e13a7b170.gif"
-/>
+<!-- Skills -->
 
 <div
 align="left"
 >
   <img
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg"
-  height="60"
+  height="40"
   alt="go logo"
   />
   <img
@@ -65,13 +59,14 @@ align="left"
   />
   <img
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"
-  height="60"
-  alt="python logo"  />
+  height="40"
+  alt="python logo"
+  />
   <img
   width="12"
   />
   <img
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="60"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="40"
   alt="java logo"
   />
   <img
@@ -79,7 +74,7 @@ align="left"
   />
   <img
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg"
-  height="60"
+  height="40"
   alt="c logo"
   />
   <img
@@ -87,12 +82,14 @@ align="left"
   />
   <img
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"
-  height="60"
+  height="40"
   alt="html5 logo"
   />
-  <img width="12" />
   <img
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="60"
+  width="12"
+  />
+  <img
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="40"
   alt="css3 logo"
   />
   <img
@@ -100,14 +97,15 @@ align="left"
   />
   <img
   src="https://cdn.simpleicons.org/tailwindcss/06B6D4"
-  height="60"
+  height="40"
   alt="tailwindcss logo"
   />
   <img
   width="12"
   />
   <img
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="60"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg"
+  height="40"
   alt="materialui logo"
   />
   <img
@@ -115,7 +113,7 @@ align="left"
   />
   <img
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg"
-  height="60"
+  height="40"
   alt="git logo"
   />
   <img
@@ -123,7 +121,7 @@ align="left"
   />
   <img
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"
-  height="60"
+  height="40"
   alt="googlecloud logo"
   />
   <img
@@ -131,7 +129,7 @@ align="left"
   />
   <img
   src="https://cdn.simpleicons.org/android/3DDC84"
-  height="60"
+  height="40"
   alt="android logo"
   />
   <img
@@ -139,7 +137,7 @@ align="left"
   />
   <img
   src="https://cdn.simpleicons.org/javascript/F7DF1E"
-  height="60"
+  height="40"
   alt="javascript logo"
   />
   <img
@@ -147,7 +145,7 @@ align="left"
   />
   <img
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg"
-  height="60"
+  height="40"
   alt="nodejs logo"
   />
   <img
@@ -155,7 +153,7 @@ align="left"
   />
   <img
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
-  height="60"
+  height="40"
   alt="react logo"
   />
   <img
@@ -163,7 +161,7 @@ align="left"
   />
   <img
     src="https://skillicons.dev/icons?i=express"
-    height="60"
+    height="40"
     alt="express logo"
   />
   <img
@@ -171,7 +169,7 @@ align="left"
   />
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"
-    height="60"
+    height="40"
     alt="nextjs logo"
   />
   <img
@@ -179,7 +177,7 @@ align="left"
   />
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg"
-    height="60"
+    height="40"
     alt="mongodb logo"
   />
   <img
@@ -194,7 +192,9 @@ align="left"
   width="12"
   />
   <img
-  src="https://skillicons.dev/icons?i=figma" height="60" alt="figma logo"
+  src="https://skillicons.dev/icons?i=figma" 
+  height="40"
+  alt="figma logo"
   />
   <img
   width="12"
@@ -209,7 +209,7 @@ align="left"
   />
   <img
   src="https://skillicons.dev/icons?i=ps"
-  height="60"
+  height="40"
   alt="adobephotoshop logo"
   />
 </div>
