@@ -29,11 +29,11 @@
     />
 </div>
 
-<!-- About Me -->
+<img
+src="resources/images/rainbow-divider.png"
+/>
 
 <!-- What's going on -->
-
-## What's Going on
 
 - 🔭 Currently Working on : [Total Health Chatbot](https://github.com/sayancyan/TotalHealth-AI)
 - 🌱 Currently Learning : NOSQL and about [MongoDB](https://www.mongodb.com)
@@ -42,7 +42,9 @@
 <!-- - 🤝 I’m looking for help with
 - 👯 I’m looking to collaborate ond d -->
 
----
+<img
+src="resources/images/rainbow-divider.png"
+/>
 
 <!-- Skills -->
 
@@ -214,6 +216,10 @@ align="center"
   />
 </div>
 
+<img
+src="resources/images/rainbow-divider.png"
+/>
+
 <!-- Stats -->
 <div
 align="center"
@@ -236,16 +242,16 @@ align="center"
   height=""
   alt="trophy graph"
   />
-
 </div>
 
+<img
+src="resources/images/rainbow-divider.png"
+/>
+
+<!-- Contacts -->
 <div
 align="center"
 >
-
-  <h2>
-  Connect with me
-  </h2>
 <a
   href="https://mailto:sayancyan@gmail.com"
   target="_blank">
@@ -291,14 +297,7 @@ align="center"
     alt="hackerrank logo"
     />
 </a>
-
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/sayancyan/sayancyan/output/snake.svg" alt="Snake animation" />
 
 <!-- ### 💰You can help me by Donating
 
