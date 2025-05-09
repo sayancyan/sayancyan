@@ -9,6 +9,7 @@
 </div>
 
 <!-- Profile Views -->
+
 <div 
   style="width: 100%; height: auto; margin-bottom: 25px;">
   <img 
@@ -28,8 +29,6 @@
     />
 </div>
 
----
-
 <!-- About Me -->
 
 <!-- What's going on -->
@@ -45,52 +44,265 @@
 
 ---
 
-<!-- Connect with me -->
+<!-- Image & Skills -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&duration=2000&pause=999&color=F7F7F7&repeat=false&width=435&lines=Connect+with+Me)](https://linkedin.com/in/sayancyan)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=15&duration=2000&pause=999&color=34ABF7&repeat=false&width=435&lines=LinkedIn)](https://linkedin.com/in/sayancyan)
+<img
+align="right"
+height="150"
+src="https://i.pinimg.com/originals/e1/7a/b9/e17ab9681bec36303a67cd0e13a7b170.gif"
+/>
 
-[![Gmail]()](mailto:xonomorph@gmail.com)
-[![LinkedIn]()](https://linkedin.com/in/sayancyan)
-[![GitHub]()](https://github.com/sayancyan)
+<div
+align="left"
+>
+  <img
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg"
+  height="60"
+  alt="go logo"
+  />
+  <img
+  width="12"
+  />
+  <img
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"
+  height="60"
+  alt="python logo"  />
+  <img
+  width="12"
+  />
+  <img
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="60"
+  alt="java logo"
+  />
+  <img
+  width="12"
+  />
+  <img
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg"
+  height="60"
+  alt="c logo"
+  />
+  <img
+  width="12"
+  />
+  <img
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"
+  height="60"
+  alt="html5 logo"
+  />
+  <img width="12" />
+  <img
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="60"
+  alt="css3 logo"
+  />
+  <img
+  width="12"
+  />
+  <img
+  src="https://cdn.simpleicons.org/tailwindcss/06B6D4"
+  height="60"
+  alt="tailwindcss logo"
+  />
+  <img
+  width="12"
+  />
+  <img
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="60"
+  alt="materialui logo"
+  />
+  <img
+  width="12"
+  />
+  <img
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg"
+  height="60"
+  alt="git logo"
+  />
+  <img
+  width="12"
+  />
+  <img
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"
+  height="60"
+  alt="googlecloud logo"
+  />
+  <img
+  width="12"
+  />
+  <img
+  src="https://cdn.simpleicons.org/android/3DDC84"
+  height="60"
+  alt="android logo"
+  />
+  <img
+  width="12"
+  />
+  <img
+  src="https://cdn.simpleicons.org/javascript/F7DF1E"
+  height="60"
+  alt="javascript logo"
+  />
+  <img
+  width="12"
+  />
+  <img
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg"
+  height="60"
+  alt="nodejs logo"
+  />
+  <img
+  width="12"
+  />
+  <img
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+  height="60"
+  alt="react logo"
+  />
+  <img
+    width="12"
+  />
+  <img
+    src="https://skillicons.dev/icons?i=express"
+    height="60"
+    alt="express logo"
+  />
+  <img
+    width="12"
+  />
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"
+    height="60"
+    alt="nextjs logo"
+  />
+  <img
+    width="12"
+  />
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg"
+    height="60"
+    alt="mongodb logo"
+  />
+  <img
+    width="12"
+  />
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"
+    height="40
+    alt="mysql logo"
+  />
+  <img
+  width="12"
+  />
+  <img
+  src="https://skillicons.dev/icons?i=figma" height="60" alt="figma logo"
+  />
+  <img
+  width="12"
+  />
+  <img
+  src="https://skillicons.dev/icons?i=ai"
+  height="40
+  alt="adobeillustrator-logo"
+  />
+  <img
+  width="12"
+  />
+  <img
+  src="https://skillicons.dev/icons?i=ps"
+  height="60"
+  alt="adobephotoshop logo"
+  />
+</div>
 
 ---
-
-<!-- My Skills -->
-
-## [![My Skills](https://skillicons.dev/icons?i=python,c,java,html,css,js,git,gcp,react,tailwind,flutter,mysql,ps,ai,obsidian&perline=15&theme=dark)](https://www.linkedin.com/in/sayancyan)
 
 <!-- Stats -->
+<div
+align="center"
+>
+<img
+  src="https://streak-stats.demolab.com?user=sayancyan&locale=en&mode=weekly&theme=github_dark&hide_border=true"
+  height=""
+  alt="streak graph"
+  />
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs?username=sayancyan&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true"
+  height=""
+  alt="languages graph"
+  />
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=sayancyan&theme=github-dark&hide_border=true&hide_title=true&custom_title=Activity%20Graph&area=true"
+  height=""
+  alt="activity-graph graph"
+  />
+<img
+  src="https://github-profile-trophy.vercel.app?username=sayancyan&theme=flat&no-bg=true&no-frame=true"
+  height=""
+  alt="trophy graph"
+  />
+</div>
 
-<img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayancyan&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false&layout=compact" /><img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=sayancyan&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false"/>
-</br>
+<div
+align="center"
+>
 
-<!-- Streak -->
-<p align="center">
-<img align="center" width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=sayancyan&theme=midnight-purple&hide_border=true"/>
-</p>
+  <h2>
+  Connect with me
+  </h2>
+<a
+  href="https://mailto:sayancyan@gmail.com"
+  target="_blank">
+<img
+    src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge"
+    height="35"
+    alt="gmail logo"
+    />
+</a>
+<a
+  href="https://www.linkedin.com/in/sayancyan"
+  target="_blank">
+<img
+    src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge"
+    height="35"
+    alt="linkedin logo"
+    />
+</a>
+<a
+  href="https://discord.com"
+  target="_blank">
+<img
+    src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge"
+    height="35"
+    alt="discord logo"
+    />
+</a>
+<a
+  href="https://www.twitch.tv/cyansayan"
+  target="_blank">
+<img
+    src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge"
+    height="35"
+    alt="twitch logo"
+    />
+</a>
+<a
+  href="https://www.hackerrank.com/xonomorph"
+  target="_blank">
+<img
+    src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge"
+    height="35"
+    alt="hackerrank logo"
+    />
+</a>
 
----
+</div>
 
-<!-- ### GitHub trophies
+###
 
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sayancyan" alt="sayancyan" /></a> </p>
-<h3 align="left"> -->
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/sayancyan/sayancyan/output/snake.svg" alt="Snake animation" />
 
 <!-- ### 💰You can help me by Donating
 
 <a href="https://buymeacoffee.com/sayancyan" target="blank"><img align="center" src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="sayancyan" /></a> -->
-
-<!-- <p align="center"> <img width="100%" src="/images/footer.gif" /> </p> -->
-<p align="center"> <img width="100%" src="/images/footer_1.gif" /> </p>
-<!-- <p align="center"> <img width="50%" src="" /> </p> -->
-
-<!-- Languages and Tools:</h3>
-
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p> -->
-
-<!-- <h3 align="left">🛠️ Languages and Tools:</h3>
-  <p align="center"> <div align="left"> <img src="https://skillicons.dev/icons?i=cpp,cs,dotnet,html,css,js,angular,postman,git,github,visualstudio,vscode,linux&perline=13"/> </div> </p> -->
-
-<!-- <h3 align="left">🏆 GitHub Trophies:</h3> -->
-  <!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=a-hemeda&theme=algolia" alt="a-hemeda"/></a> </p> -->
