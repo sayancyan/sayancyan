@@ -299,6 +299,8 @@ align="center"
 </a>
 </div>
 
+<!-- Snake -->
+
 <img
 src="https://raw.githubusercontent.com/sayancyan/sayancyan/output/snake.svg"
 />
