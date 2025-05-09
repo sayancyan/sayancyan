@@ -214,8 +214,6 @@ align="center"
   />
 </div>
 
----
-
 <!-- Stats -->
 <div
 align="center"
