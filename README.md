@@ -238,7 +238,7 @@ align="center"
   alt="activity-graph graph"
   />
 <img
-  src="https://github-profile-trophy.vercel.app?username=sayancyan&theme=flat&no-bg=true&no-frame=true"
+  src="https://github-profile-trophy.vercel.app?username=sayancyan&&no-bg=true&no-frame=true&column=-1"
   height=""
   alt="trophy graph"
   />
