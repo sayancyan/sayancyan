@@ -47,7 +47,7 @@
 <!-- Skills -->
 
 <div
-align="left"
+align="center"
 >
   <img
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg"
