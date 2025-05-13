@@ -224,14 +224,9 @@ src="resources/images/rainbow-divider.png"
 <div
 align="center"
 >
-<img 
-  src="https://github-readme-streak-stats.herokuapp.com?user=sayancyan&theme=github-dark&hide_border=true&mode=weekly"
-  height="170"
-  alt="GitHub Streak"
-/>
 <img
   src="https://github-readme-stats.vercel.app/api/top-langs?username=sayancyan&locale=en&hide_title=true&layout=compact&langs_count=5&theme=github_dark&hide_border=true"
-  height="170"
+  height="300"
   alt="languages graph"
   />
 <img
