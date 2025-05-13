@@ -225,7 +225,7 @@ src="resources/images/rainbow-divider.png"
 align="center"
 >
 <img 
-  src="https://github-readme-streak-stats.herokuapp.com?user=sayancyan&theme=github-dark-blue&hide_border=true&mode=weekly"
+  src="https://github-readme-streak-stats.herokuapp.com?user=sayancyan&theme=github-dark&hide_border=true&mode=weekly"
   height="170"
   alt="GitHub Streak"
 />
