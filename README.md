@@ -224,7 +224,11 @@ src="resources/images/rainbow-divider.png"
 <div
 align="center"
 >
-<img src="https://streak-stats.demolab.com?user=sayancyan&mode=weekly&theme=github_dark&hide_border=true"/>
+<img 
+  src="https://github-readme-streak-stats.herokuapp.com?user=sayancyan&theme=github-dark-blue&hide_border=true&mode=weekly&background=45%2C48000000%2C23004600&fire=00F9FF"
+  height=""
+  alt="GitHub Streak"
+/>
 <img
   src="https://github-readme-stats.vercel.app/api/top-langs?username=sayancyan&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true"
   height=""
@@ -240,6 +244,7 @@ align="center"
   height=""
   alt="trophy graph"
   />
+
 </div>
 
 <img
