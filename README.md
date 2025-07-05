@@ -39,7 +39,7 @@ src="resources/images/rainbow-divider.png"
 - 🌱 Currently Learning : NOSQL and about [MongoDB](https://www.mongodb.com)
 - 👨‍💻 All of my projects are available here👉 [ github.com/sayancyan](https://github.com/sayancyan)
 - 📢 I post some public notes -> Check them out here👉 [Public Notes](https://github.com/sayancyan/public-vault)
-- See my resume : [My Resume](https://github.com/sayancyan/resume)
+- See my resume : [My Resume](https://github.com/sayancyan/resume_modified)
 <!-- - 🤝 I’m looking for help with
 - 👯 I’m looking to collaborate ond d -->
 
