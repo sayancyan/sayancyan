@@ -49,12 +49,6 @@ src="resources/images/rainbow-divider.png"
 
 <!-- Skills -->
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,sklearn,java,c,golang,replit,html,css,js,npm,nodejs,vite,expressjs,nextjs,threejs,supabase,react,tailwind,materialui,bootstrap,scss,figma,mysql,sqlite,mongodb,gcp,aws,flutter,github,firebase,vercel,netlify,ps,ai,obsidian,bash&theme=dark" />
-  </a>
-</p>
-
 [![My Skills](https://skillicons.dev/icons?i=python,sklearn,java,c,golang,replit,html,css,js,npm,nodejs,vite,expressjs,nextjs,threejs,supabase,react,tailwind,materialui,bootstrap,scss,figma,mysql,sqlite,mongodb,gcp,aws,flutter,github,firebase,vercel,netlify,ps,ai,obsidian,bash&theme=dark)](https://skillicons.dev)
 
 <img
