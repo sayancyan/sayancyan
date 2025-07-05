@@ -47,14 +47,17 @@ src="resources/images/rainbow-divider.png"
 />
 
 <!-- Skills -->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,sklearn,java,c,golang,replit,html,css,js,npm,nodejs,vite,expressjs,nextjs,threejs,supabase,react,tailwind,materialui,bootstrap,scss,figma,mysql,sqlite,mongodb,gcp,aws,flutter,github,firebase,vercel,netlify,ps,ai,obsidian,bash&perline=9&theme=dark" />
+  </a>
+</p>
+
+<!-- [![My Skills](https://skillicons.dev/icons?i=python,java,c,golang,html,css,js,nodejs,expressjs,nextjs,react,tailwind,materialui,bootstrap,scss,figma,mysql,mongodb,gcp,aws,flutter,github,firebase,ps,ai,obsidian,bash)](https://skillicons.dev) -->
 
 <img
 src="resources/images/rainbow-divider.png"
 />
-
-[![My Skills](https://skillicons.dev/icons?i=python,java,c,golang,html,css,js,nodejs,expressjs,nextjs,react,tailwind,materialui,bootstrap,scss,figma,mysql,mongodb,gcp,aws,flutter,github,firebase,ps,ai,obsidian,bash)](https://skillicons.dev)
-
-<!-- [![My Skills](https://skillicons.dev/icons?i=python,java,c,golang,html,css,js,nodejs,expressjs,nextjs,react,tailwind,materialui,bootstrap,scss,figma,mysql,mongodb,gcp,aws,flutter,github,firebase,ps,ai,obsidian,bash)](https://skillicons.dev) -->
 
 <!-- Stats -->
 <div
