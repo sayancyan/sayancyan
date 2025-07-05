@@ -39,6 +39,7 @@ src="resources/images/rainbow-divider.png"
 - 🌱 Currently Learning : NOSQL and about [MongoDB](https://www.mongodb.com)
 - 👨‍💻 All of my projects are available here👉 [ github.com/sayancyan](https://github.com/sayancyan)
 - 📢 I post some public notes -> Check them out here👉 [Public Notes](https://github.com/sayancyan/public-vault)
+- My Resume :
 <!-- - 🤝 I’m looking for help with
 - 👯 I’m looking to collaborate ond d -->
 
@@ -47,13 +48,14 @@ src="resources/images/rainbow-divider.png"
 />
 
 <!-- Skills -->
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,sklearn,java,c,golang,replit,html,css,js,npm,nodejs,vite,expressjs,nextjs,threejs,supabase,react,tailwind,materialui,bootstrap,scss,figma,mysql,sqlite,mongodb,gcp,aws,flutter,github,firebase,vercel,netlify,ps,ai,obsidian,bash&perline=9&theme=dark" />
   </a>
 </p>
 
-<!-- [![My Skills](https://skillicons.dev/icons?i=python,java,c,golang,html,css,js,nodejs,expressjs,nextjs,react,tailwind,materialui,bootstrap,scss,figma,mysql,mongodb,gcp,aws,flutter,github,firebase,ps,ai,obsidian,bash)](https://skillicons.dev) -->
+[![My Skills](https://skillicons.dev/icons?i=python,sklearn,java,c,golang,replit,html,css,js,npm,nodejs,vite,expressjs,nextjs,threejs,supabase,react,tailwind,materialui,bootstrap,scss,figma,mysql,sqlite,mongodb,gcp,aws,flutter,github,firebase,vercel,netlify,ps,ai,obsidian,bash&perline=9&theme=dark)](https://skillicons.dev)
 
 <img
 src="resources/images/rainbow-divider.png"
