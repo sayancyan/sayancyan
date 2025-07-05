@@ -59,11 +59,11 @@ src="resources/images/rainbow-divider.png"
 <div
 align="center"
 >
-<img
+<!-- <img
   src="https://github-readme-stats.vercel.app/api/top-langs?username=sayancyan&locale=en&hide_title=true&layout=compact&langs_count=5&theme=github_dark&hide_border=true"
   height="300"
   alt="languages graph"
-  />
+  /> -->
 <img
   src="https://github-readme-activity-graph.vercel.app/graph?username=sayancyan&theme=github-dark&hide_border=true&hide_title=true&custom_title=Activity%20Graph&area=true"
   height=""
