@@ -35,13 +35,13 @@ src="resources/images/rainbow-divider.png"
 
 <!-- What's going on -->
 
-- 🔭 Currently Working on : [Total Health Chatbot](https://github.com/sayancyan/TotalHealth-AI)
-- 🌱 Currently Learning : NOSQL and about [MongoDB](https://www.mongodb.com)
+- 🔭 Currently Working on : [n8n based AI agents](https://github.com/sayancyan)
+- 🌱 Currently Learning : [n8n automation](https://n8n.io/)
 - 👨‍💻 All of my projects are available here👉 [ github.com/sayancyan](https://github.com/sayancyan)
-- 📢 I post some public notes -> Check them out here👉 [Public Notes](https://github.com/sayancyan/public-vault)
-- See my resume : [My Resume](https://github.com/sayancyan/sayancyan/blob/main/resources/files/resume_modified.pdf)
+- 📢 Check out my notes👉 [Public Notes](https://github.com/sayancyan/public-vault)
+- ⭐See my resume : [My Resume](https://github.com/sayancyan/sayancyan/blob/main/resources/files/resume_modified.pdf)
 <!-- - 🤝 I’m looking for help with
-- 👯 I’m looking to collaborate ond d -->
+- 👯 I’m looking to collaborate on <something> -->
 
 <img
 src="resources/images/rainbow-divider.png"
@@ -49,8 +49,7 @@ src="resources/images/rainbow-divider.png"
 
 <!-- Skills -->
 
-[![My Skills](https://skillicons.dev/icons?i=python,sklearn,java,c,golang,replit,html,css,js,npm,nodejs,vite,expressjs,nextjs,threejs,supabase,react,tailwind,materialui,bootstrap,scss,figma,mysql,sqlite,mongodb,gcp,aws,flutter,github,firebase,vercel,netlify,ps,ai,obsidian,bash&theme=dark)](https://skillicons.dev)
-
+[![My Skills](https://skills.syvixor.com/api/icons?i=markdown,overleaf,python,flask,django,pytorch,tensorflow,matlab,sklearn,java,c,golang,replit,html,css,js,npm,nodejs,vite,expressjs,nextjs,threejs,supabase,react,reactnative,tailwind,materialui,bootstrap,sass,figma,mysql,sqlite,mongodb,postgresql,gcp,googlecolaboratory,aws,flutter,github,githubpages,githubcopilot,githubactions,firebase,vercel,render,netlify,photoshop,adobeillustrator,obsidian,bash,powershell,n8n,windsurf,chatgpt,gemini,claudeai,microsoftcopilot,grok,windows,linux,kalilinux,ubuntu,android,androidstudio,vscode&radius=200)](https://github.com/syvixor/skills-icons)
 <img
 src="resources/images/rainbow-divider.png"
 />
