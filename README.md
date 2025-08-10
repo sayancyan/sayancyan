@@ -39,7 +39,7 @@ src="resources/images/rainbow-divider.png"
 - 🌱 Currently Learning : [n8n automation](https://n8n.io/)
 - 👨‍💻 All of my projects are available here👉 [ github.com/sayancyan](https://github.com/sayancyan)
 - 📢 Check out my notes👉 [Public Notes](https://github.com/sayancyan/public-vault)
-- ⭐See my resume : [My Resume](https://github.com/sayancyan/sayancyan/blob/main/resources/files/resume-modified.pdf)
+- ⭐See my resume : [My Resume](https://github.com/sayancyan/sayancyan/blob/main/resources/files/SayanBiswas_BTECH_fresher.pdf)
 <!-- - 🤝 I’m looking for help with
 - 👯 I’m looking to collaborate on <something> -->
 
